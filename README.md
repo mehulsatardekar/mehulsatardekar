@@ -1,16 +1,143 @@
-### Hi there 👋
+<h1>Hi There, I'm Mehul Satardekar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!--
-**mehulsatardekar/mehulsatardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mehul Satardekar, a passionate self-taught Fronted Engineer/UI Engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-Here are some ideas to get you started:
+## Skill Set :muscle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some of the major technologies that I use or have worked on in the past:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/csharp-original.svg" width="48" height="48" alt="c#" />
+      </a>
+      <br>C# (Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png" width="48" height="48" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="Sql" />
+      </a>
+      <br>Sql
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="48" height="48" alt="Mysql" />
+      </a>
+      <br>Mysql
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" width="48" height="48" alt="asp.net" />
+      </a>
+      <br>Asp.net
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" width="100" height="48" alt="Chakraui" />
+      </a>
+      <br>ChakraUI
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" width="48" height="48" alt="Nginx" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="48" height="48" alt="Css" />
+      </a>
+      <br>Css
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    
+  </tr>
+</table>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehulsatardekar&show_icons=true&theme=gotham" alt="mehulsatardekar" />
+
+
+
+
