@@ -22,12 +22,6 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/csharp-original.svg" width="48" height="48" alt="c#" />
-      </a>
-      <br>C# (Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
@@ -56,26 +50,8 @@ These are some of the major technologies that I use or have worked on in the pas
       </a>
       <br>Mysql
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" width="48" height="48" alt="asp.net" />
-      </a>
-      <br>Asp.net
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="48" height="48" alt="aws" />
@@ -88,23 +64,11 @@ These are some of the major technologies that I use or have worked on in the pas
       </a>
       <br>ChakraUI
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
