@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Mehul Satardekar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Hi, I'm Mehul Satardekar, a passionate self-taught Fronted Engineer/UI Engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Mehul Satardekar, a passionate Fronted Engineer/UI Engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 ## Skill Set :muscle:
 
